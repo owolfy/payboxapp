@@ -12,4 +12,3 @@ RUN cd /app/notification && npm install
 COPY /notification /app/notification/
 
 EXPOSE 3000
-EXPOSE 3001
